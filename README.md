@@ -113,7 +113,7 @@ When I am not coding, you'll find me keeping fit by working out, walking or play
 | :----------- | :----------- | :----------- | :----------- |
 | 1 | <p><a href="https://github.com/PATIAT/west-mill-cottage"><img src="images/west-mill-cottage-mockup.png" width="300"></a></p><p><strong>West Mill Cottage</strong></p> | <p>A website created for a holiday cottage using HTML, CSS, the Bootstrap Framework and deployed using GitHub pages.</p> | Distinction |
 | 2 | <p><a href="https://github.com/PATIAT/like-a-local"><img src="images/like-a-local-mockup.png" width="300"></a></p><p><strong>Like a Local</strong></p> | <p>A website created for a London based travel guide business that contains access to Google Maps API and a quiz to test your knowledge of London. Created with HTML, CSS, JavaScript, jQuery and deployed using GitHub pages</p> | Distinction |
-| 3 | <p><a href="https://github.com/PATIAT/eatsafe_bewell"><img src="images/eastsafe-bewell-mockup.png" width="300"></a></p><p><strong>Eat Safe Be Well</strong></p> | <p>A website created to document consumers food safety and quality incidents to protect others. Created with HTML, CSS, JavaScript, Python and Flask. This site uses a non-relational DB (MongoDB) and is deployed using Heroku.</p> | TBC |
+| 3 | <p><a href="https://github.com/PATIAT/eatsafe_bewell"><img src="images/eastsafe-bewell-mockup.png" width="300"></a></p><p><strong>Eat Safe Be Well</strong></p> | <p>A website created to document consumers food safety and quality incidents to protect others. Created with HTML, CSS, JavaScript, Python and Flask. This site uses a non-relational DB (MongoDB) and is deployed using Heroku.</p> | Distinction |
 | 4 | <p><a href=""><img src=""></a></p><p>TBC</p> | <p>TBC</p> | TBC |
 </details>
 
