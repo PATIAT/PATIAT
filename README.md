@@ -7,7 +7,7 @@
 
 Hey, 👋 I'm Paul,
 
-I have completed 3 out 4 of my milestone projects towards my Diploma in Web Application Development. I've always had an obsession with all things tech and I am pursuing this new knowledge as a way to keep continually improving...
+I have completed 4 out 4 of my milestone projects towards my Diploma in Web Application Development and I am awaiting my overall grade. I've always had an obsession with all things tech and I am pursuing this new knowledge as a way to keep continually improving...
 
 When I am not coding, you'll find me keeping fit by working out, walking or playing football with my son. I also have a passion for food and the food industry having been involved with food safety and quality management for almost 14 years and I see so many opportunities for technology to assist and improve the food safety and quality functions within the food industry.
 
@@ -114,7 +114,7 @@ When I am not coding, you'll find me keeping fit by working out, walking or play
 | 1 | <p><a href="https://github.com/PATIAT/west-mill-cottage"><img src="images/west-mill-cottage-mockup.png" width="300"></a></p><p><strong>West Mill Cottage</strong></p> | <p>A website created for a holiday cottage using HTML, CSS, the Bootstrap Framework and deployed using GitHub pages.</p> | Distinction |
 | 2 | <p><a href="https://github.com/PATIAT/like-a-local"><img src="images/like-a-local-mockup.png" width="300"></a></p><p><strong>Like a Local</strong></p> | <p>A website created for a London based travel guide business that contains access to Google Maps API and a quiz to test your knowledge of London. Created with HTML, CSS, JavaScript, jQuery and deployed using GitHub pages</p> | Distinction |
 | 3 | <p><a href="https://github.com/PATIAT/eatsafe_bewell"><img src="images/eastsafe-bewell-mockup.png" width="300"></a></p><p><strong>Eat Safe Be Well</strong></p> | <p>A website created to document consumers food safety and quality incidents to protect others. Created with HTML, CSS, JavaScript, Python and Flask. This site uses a non-relational DB (MongoDB) and is deployed using Heroku.</p> | Distinction |
-| 4 | <p><a href=""><img src=""></a></p><p>TBC</p> | <p>TBC</p> | TBC |
+| 4 | <p><a href="https://github.com/PATIAT/the_green_earth_foundation"><img src="images/green-earth-foundation-mockup.png" width="300"></a></p><p><strong>The Green Earth Foundation</strong></p> | <p>A purpose-driven application dedicated to environmental conservation and sustainability built using Django full-stack framework.</p> | TBC |
 </details>
 
 
