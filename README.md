@@ -7,7 +7,7 @@
 
 Hey, 👋 I'm Paul,
 
-I have completed 4 out 4 of my milestone projects towards my Diploma in Web Application Development and I am awaiting my overall grade. I've always had an obsession with all things tech and I am pursuing this new knowledge as a way to keep continually improving...
+I have completed 4 out 4 of my milestone projects towards my Diploma in Web Application Development and I have acheived a Distinction grade overall. I've always had an obsession with all things tech and I am pursuing this new knowledge as a way to keep continually improving...
 
 When I am not coding, you'll find me keeping fit by working out, walking or playing football with my son. I also have a passion for food and the food industry having been involved with food safety and quality management for almost 14 years and I see so many opportunities for technology to assist and improve the food safety and quality functions within the food industry.
 
